@@ -8,7 +8,6 @@ Stocks are assigned a score based on six key indicators covering different timef
 
 As with all technical indicators, SCTRs are designed to be used in conjunction with other indicators and analysis techniques. For example, chartists can use SCTRs as a filter when there are too many signals, weeding out stocks showing relative weakness and providing a manageable subset for further analysis.
 
-```
 Long-Term Indicators (weighting)
 --------------------------------
 
@@ -26,7 +25,6 @@ Short-Term Indicators (weighting)
 
   * 3-day slope of PPO(12,26,9) Histogram/3 (5%)
   * 14-day RSI (5%)
-```
 
 ## Ranking
 In the original SCTR universe, the stocks were grouped into baskets and ranked based on market cap. In this project, the universe considered are stocks in the S&P 500.
