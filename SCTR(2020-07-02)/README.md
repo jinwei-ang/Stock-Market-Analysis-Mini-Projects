@@ -1,6 +1,6 @@
 # SCTR Ranking for S&P 500 Tickers and Screener for Potential Stock Picks
 
-![Plot](https://github.com/jinwei-ang/Stock-Market-Analysis-Mini-Projects/blob/main/SCTR(2020-06-29)/SCTR(2021-07-02).png)
+![Plot](https://github.com/jinwei-ang/Stock-Market-Analysis-Mini-Projects/blob/main/SCTR(2020-07-02)/SCTR(2021-07-02).png)
 ## Introduction
 The StockCharts Technical Rank (SCTR) is a numerical score that ranks a stock within a group of stocks. The methodology for these rankings comes from the wisdom of John Murphy, author of many books on technical analysis and contributor to the Market Message at StockCharts.com.
 
