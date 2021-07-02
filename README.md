@@ -1,16 +1,14 @@
 # Stock Market Analysis Mini Projects
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## About This Collection
 This is a collection of experiments using various methods.
 * Machine Learning
 * Technical Analysis
 * Fundamental Analysis
 * Sentiment Analysis
 
-## Built Using
-* keras
-* sklearn
-* tensorflow
-* NLTK
+## Content
+ * [Predicting Stock Prices ('AAPL') Using An LSTM Model](https://github.com/jinwei-ang/Stock-Market-Analysis-Mini-Projects/tree/main/LSTM-Closing%20Price-AAPL(2021-06-27))
+ 
+  * [Predicting Stock Prices ('SPY') Using An LSTM-Multivariate Model](https://github.com/jinwei-ang/Stock-Market-Analysis-Mini-Projects/tree/main/LSTM-Multivariate%20-SPY(2021-07-02))
  
